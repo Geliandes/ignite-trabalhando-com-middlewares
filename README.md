@@ -35,7 +35,7 @@
 
 Nesse desafio trabalhei mais a fundo com middlewares no Express. Dessa forma, fui capaz de fixar mais ainda os conhecimentos obtidos até agora. 
 
-Para facilitar um pouco mais do conhecimento da regra de negócio, trabalhei com a mesma aplicação do desafio anterior: uma aplicação para gerenciar tarefas (ou *todos*) mas com algumas mudanças: **[Desafio 1 - Conceitos do Node.js](https://github.com/Geliandes/ignite-trabalhando-com-middlewares)**
+Para facilitar um pouco mais do conhecimento da regra de negócio, trabalhei com a mesma aplicação do desafio anterior: uma aplicação para gerenciar tarefas (ou *todos*) mas com algumas mudanças: **[Desafio 1 - Conceitos do Node.js](https://github.com/Geliandes/ignite-conceitos-do-nodejs)**
 
 Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*:
 
