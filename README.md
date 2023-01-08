@@ -6,7 +6,7 @@
   Desafio 02: Trabalhando com Middlewares
 </h3>
 
-<p align="center">“Não é a linguagem de programação que define o programador, mas sim sua lógica.”!</blockquote>
+<p align="center">“Não é a linguagem de programação que define o programador, mas sim sua lógica.”</blockquote>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/badge/javascript-100%25-blue">
